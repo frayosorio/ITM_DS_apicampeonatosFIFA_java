@@ -2,7 +2,7 @@ package campeonatosfifa.api.core.servicios;
 
 import java.util.List;
 import campeonatosfifa.api.dominio.entidades.*;
-import campeonatosfifa.api.dominio.DTOs.*;
+//import campeonatosfifa.api.dominio.DTOs.*;
 
 public interface IGrupoServicio {
 
