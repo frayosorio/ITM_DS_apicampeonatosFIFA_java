@@ -17,7 +17,7 @@
         </dependency>
         <dependency>
             <groupId>campeonatosfifa</groupId>
-            <artifactId>core</artifactId>
+            <artifactId>aplicacion</artifactId>
             <version>0.0.1-SNAPSHOT</version> 
         </dependency>
     </dependencies>
